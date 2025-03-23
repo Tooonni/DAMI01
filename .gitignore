@@ -118,6 +118,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-/input
+/input/clean
+/input/raw
 
 .DS_Store
