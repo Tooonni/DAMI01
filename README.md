@@ -7,15 +7,6 @@
 4. Install all packages from requirements.txt =  pip install -r requirements.txt
 
 
-
-
-# Todos
-### 1. create_database
-    - Einwohnerdichte 2023 bekommen (sind Bilddaten und durch KI API sagen lassen wenn Farbe X dann diesen Wert übergeben)
-        - https://gdi.berlin.de/services/wms/ua_einwohnerdichte_2023?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=einwohnerdichte2023&STYLES=einwohnerdichte2023_ewdichte2023&FORMAT=image/png&CRS=EPSG:25833&BBOX=397500,5808100,397600,5808200&WIDTH=101&HEIGHT=101
-        - hier muss ein BBOX erstellt werden hochrunden und abrungen auf 100er stelle
-        - ![Einwohnerdichte_PNG](image.png)
-
 ____
 
 3️⃣ Data Preparation – Bereinigung & Aufbereitung
