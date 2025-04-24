@@ -9,12 +9,6 @@
 
 ____
 
-3️⃣ Data Preparation – Bereinigung & Aufbereitung
-Geodaten bereinigen: Überprüfung, ob alle Unternehmen eine gültige Koordinate haben.
-Branchenklassifikation vereinfachen: Falls nötig, Gruppierung von Branchen auf Top-Level (z. B. „Einzelhandel“, „Gastronomie“).
-Daten aggregieren: Unternehmensdichte pro Bezirk / Ortsteil berechnen.
-
-
 4️⃣ Modeling – Analytische Methoden
 Heatmap-Visualisierung:
 Dichte von Unternehmen nach Branche auf einer Berliner Karte darstellen.
