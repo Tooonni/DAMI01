@@ -5,10 +5,3 @@
 2. Install packages = pip install [packages_name]
 3. Get all packages installed = pip freeze --local
 4. Install all packages from requirements.txt =  pip install -r requirements.txt
-
-____
-
-6️⃣ Deployment – Nutzung der Erkenntnisse
-Erstellung eines Berichts / Dashboards für Stakeholder.
-Interaktive Karte für potenzielle Gründer, Investoren oder Stadtplaner.
-Empfehlungen für Standortwahl je nach Branche.
