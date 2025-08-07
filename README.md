@@ -1,5 +1,7 @@
 # DAMI01
 
+Hier beschreiben wie der Notebook ordner aufgebaut ist und 
+
 ### Virtual Enviroment
 1. Create venv = python3 -m venv .venv
 2. Install packages = pip install [packages_name]
